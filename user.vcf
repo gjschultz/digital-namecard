@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Schultz;Josh;;;
+FN: Josh  Schultz 
+ORG:Schultz Inspection Services, LLC;
+TITLE:Owner\nCertified Professional Inspector
+EMAIL;type=INTERNET;type=WORK;type=pref:Josh@schultzisllc.com
+TEL;type=WORK;type=VOICE:941 677 8289
+item1.ADR;type=WORK;type=pref:;;Lehigh Acres, Florida
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:schultzisllc.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
